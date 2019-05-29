@@ -1,3 +1,7 @@
+// Este programa calcula el tiempo total (sin solapamiento)
+// dada una lista de segmentos temporales.
+// Por ejemplo, dados s1 = [1, 3] y s2= [2, 4]
+// el tiempo total es Ttot = 3
 package main
 
 import (
